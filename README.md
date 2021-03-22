@@ -1,0 +1,4 @@
+- 👋👋👋 Hello I’m @davepi23 
+- 🎵 I produce Tekno music, which you can check out here => https://linktr.ee/davepi23
+- 🔬 I have dabbled with a lot of technology during CS/EE course (C#, basic websites to SPAs, some android development and embedded (arduino -> just the atmel chip)).
+- 🕖 These days you can find me making music and dabbing just for myself.
